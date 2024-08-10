@@ -42,8 +42,7 @@ This project aims to:
   - `df_metrics_<cc_num>.csv`: Model metrics.
 
 - `scripts/`:
-  - `expense_prediction.py`: Script to predict future expenses.
-  - `visualization.py`: Script to generate interactive graphs.
+  - `main.py`.
 
 ## 🚀 Getting Started
 
@@ -66,21 +65,7 @@ Place your `data.csv` file in the `data/` folder.
 
 ## 4. Run the Analysis
 
-Run the scripts to analyze and predict expenses:
-
-### Model Training and Prediction:
-
-```bash
-python scripts/expense_prediction.py
-```
-
-### Data Visualization:
-
-Run the script to generate interactive graphs:
-
-```bash
-python scripts/visualization.py
-```
+Run the scripts to analyze and predict expenses.
 
 ## 📊 Visualizations
 
